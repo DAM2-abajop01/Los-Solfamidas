@@ -19,4 +19,7 @@ public class Prueba {
     public static void Ismael() {
         System.out.println("weeee");
     }
+    public static void Luis(){
+        System.out.println("eeeeeeeeeeeeeeeeeeeeeee");
+    }
 }
