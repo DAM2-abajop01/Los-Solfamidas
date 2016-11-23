@@ -1,2 +1,2 @@
-# Los-Solfamidas
+# Los Solfamidas
 Alejandro, Ismael, Marco y Luis.
