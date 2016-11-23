@@ -1,7 +1,7 @@
 package prueba;
 
 /**
- * @author
+ * @author Alejandro
  */
 public class Prueba {
 
