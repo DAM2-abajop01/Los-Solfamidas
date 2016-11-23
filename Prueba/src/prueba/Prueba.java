@@ -13,6 +13,7 @@ public class Prueba {
 
     public static void Marcos() {
         System.out.println("Hola");
+        System.out.println("pepe");
     }
 
     public static void Ismael() {
